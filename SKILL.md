@@ -1,4 +1,4 @@
-﻿---
+---
 name: waimai-huiyuan
 slug: waimai-huiyuan
 displayName: 外卖会员红包助手
